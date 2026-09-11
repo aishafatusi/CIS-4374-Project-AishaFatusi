@@ -1,0 +1,53 @@
+homework1_ai_use
+
+Areas Where AI Was Used
+
+1. Competitor/Market Brainstorming
+AI was used to brainstorm examples of existing parking technology platforms and organize them by the main problem they solve.
+Prompt:
+What parking technology platforms currently exist? Give me examples of apps that help drivers find or reserve parking, real-time parking occupancy/sensor systems, and parking garage management software. Briefly explain what each platform does.
+
+This as well as some online searches helped identify examples such as SpotHero, ParkWhiz, ParkMobile, Google Maps/Waze, Cleverciti, Nwave, Metropolis, SKIDATA, TIBA, and Flowbird.
+
+What I kept:
+The general competitor categories.
+Relevant examples of existing parking platforms.
+The idea that most platforms focus primarily on one part of the parking experience.
+
+What I changed:
+The examples were organized into the three categories used in the final document.
+Descriptions were shortened and rewritten to fit the project's specific comparison.
+The final conclusions about LenuxParks' competitive opportunity were determined by me.
+
+
+2. Requirements Brainstorming
+AI was used as a brainstorming tool to identify possible functional and non-functional requirements for a parking platform.
+Prompt:
+What functional requirements would a mobile parking application and an administrative parking management dashboard need? Include features for drivers, parking operators, administrators, payments, availability, and reporting.
+This helped brainstorm requirements such as registration, real-time availability, interactive maps, reservations, digital payments, receipts, notifications, administration, analytics, and payment reconciliation.
+
+What I kept:
+Requirements that fit the project's stated vision and scope.
+Features that were relevant to either drivers or parking operators.
+
+What I changed:
+Requirements were selected and reorganized based on the actual LenuxParks project.
+Specific requirements and performance targets were reviewed by me, also taking into account information from lecture 2 about SRS and use cases
+
+
+3. Use Case Brainstorming
+
+AI was used to help brainstorm possible interactions between different users and the system.
+Prompt:
+Create a list of possible use cases for a parking platform that has a driver mobile app and an administrative dashboard for parking operators. Include actors, basic steps, preconditions, postconditions, user stories, and acceptance criteria.
+This helped identify possible use cases involving drivers, parking operators, system administrators, finance personnel, payment providers, and city transportation departments.
+
+What I kept:
+The general structure of the use cases.
+Relevant actors and interactions.
+The use of user stories and acceptance criteria to describe requirements.
+
+What I changed:
+I selected the use cases that were relevant to LenuxParks.
+Steps, user stories, and acceptance criteria were rewritten and adjusted to fit the project's specific functionality.
+The final 15 use cases were organized according to given project requirements and how professor did it in SRS lecture slides.
