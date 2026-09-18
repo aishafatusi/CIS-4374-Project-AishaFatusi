@@ -1,5 +1,6 @@
 homework1_ai_use
 
+Week 1
 Areas Where AI Was Used
 
 1. Competitor/Market Brainstorming
@@ -51,3 +52,33 @@ What I changed:
 I selected the use cases that were relevant to LenuxParks.
 Steps, user stories, and acceptance criteria were rewritten and adjusted to fit the project's specific functionality.
 The final 15 use cases were organized according to given project requirements and how professor did it in SRS lecture slides.
+
+
+Week 2
+AI was used as a reference and brainstorming tool while developing the Work Breakdown Structure (WBS) and project schedule in Microsoft Project. The purpose was to understand what a WBS for a software project would typically look like and how tasks should be organized into different levels.
+
+Questions asked:
+"What should a Work Breakdown Structure for a software development project look like?"
+"How should I organize a WBS into levels for a project with authentication, user setup, monitoring, dashboards, payments, notifications, reporting, testing, and deployment?"
+"How do parent tasks and subtasks work in Microsoft Project?"
+"How do predecessors work in Microsoft Project, and how should I determine which tasks need to come before others?"
+"What are some examples of predecessor relationships for a software development project?"
+
+
+What was kept:
+The general hierarchical structure of the WBS.
+The use of higher-level tasks with smaller tasks underneath them.
+The idea of using task dependencies/predecessors to establish the project sequence.
+General guidance on how the Gantt chart should reflect those dependencies.
+
+
+What was changed:
+The actual tasks and subtasks were determined based on the LenuxParks project.
+The task hierarchy and levels were adjusted to fit the project's scope.
+Predecessors were selected and entered based on the project's specific workflow and dependencies.
+Dates and the final schedule were entered and adjusted in Microsoft Project.
+The resulting Gantt chart was reviewed to make sure the schedule and dependencies displayed correctly.
+
+
+
+
