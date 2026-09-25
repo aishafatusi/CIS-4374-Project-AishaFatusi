@@ -81,4 +81,30 @@ The resulting Gantt chart was reviewed to make sure the schedule and dependencie
 
 
 
+Week 3:
+
+Jira SetUp & Sprint Planning
+AI was used as a reference and learning tool while setting up and using Jira for the first time. The main purpose was to understand how Jira organizes project work and how different Jira components relate to each other.
+
+Questions asked:
+"How does Jira organize a software development project?"
+"How do I create and start a sprint in Jira?"
+"How should I organize software development tasks under epics in Jira?"
+"How do I move tasks from the backlog into a sprint?"
+"What is the relationship between an epic, a task, a backlog, and a sprint in Jira?"
+"How do I assign tasks to a sprint and make sure they are connected to the correct parent or epic?"
+
+What was kept:
+The general Jira hierarchy and organization of project work.
+The relationship between the backlog and sprints.
+The use of epics/parent items to group related tasks.
+The general process for creating, organizing, and assigning work to a sprint.
+
+What was changed:
+The actual Jira tasks and organization were based on the LenuxParks project.
+Tasks were grouped under the project's specific epics/parent items.
+The backlog and sprint contents were selected based on the project's planned work.
+Sprint assignments and task relationships were entered and adjusted directly in Jira.
+
+
 
