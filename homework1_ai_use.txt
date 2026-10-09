@@ -107,4 +107,67 @@ The backlog and sprint contents were selected based on the project's planned wor
 Sprint assignments and task relationships were entered and adjusted directly in Jira.
 
 
+Week 4:
+
+Risk Register and Comms Plan
+AI was used as a brainstorming and reference tool to identify potential risks associated with the LenuxParks project and understand how to organize them in a risk register. It also helped clarify how probability, impact, risk scores, risk levels, risk ownership, and response strategies are used in risk management.
+AI was also used as a reference and brainstorming tool to understand how to develop a communication plan for a software development project.
+
+Questions asked:
+"What are common technical, schedule, financial, and personnel risks in a software development project?"
+"What are some potential risks for a parking platform that depends on third-party APIs and real-time occupancy data?"
+"How do I calculate a risk score using probability and impact on a 1–5 scale?"
+"How do I classify risks as low, medium, or high based on their scores?"
+"What should a communication plan for a software development project include?"
+"What meetings and communication channels are appropriate for a six-person project team?"
+"How can a project team calculate the number of possible communication channels using the formula N(N-1)/2?"
+
+What was kept:
+The general risk register structure, including risk ID, category, description, probability, impact, risk score, risk level, owner, response strategy, and status.
+Relevant categories of risks, including technical, schedule, financial, and people-related risks.
+The use of probability and impact scores to prioritize risks.
+The general structure of a communication plan, including team roles, meeting cadence, reporting methods, and project documentation.
+The distinction between daily status updates, periodic progress meetings, and monthly stakeholder meetings.
+
+What was changed:
+Risk scores and classifications were organized according to the project's scoring method.
+Owners and response strategies were assigned based on the nature of each risk.
+Communication practices were tailored to the six-member LenuxParks team.
+Meeting frequencies and reporting methods were selected to fit the project's workflow.
+
+
+Week 5:
+
+Resource Planning, Budgeting, Responsibilities Assignment
+AI was used as a reference and brainstorming tool to help understand how to develop the resource, cost, budget, cash flow, and responsibility-planning portions of the project. It was especially useful for understanding how team roles and skill levels connect to the work breakdown structure, how labor costs can be calculated from estimated hours and hourly rates, how a project budget can be organized into categories, and how a RACI matrix assigns responsibilities across project roles.
+
+Questions asked:
+"How should roles and skill levels be assigned to tasks in a software development project?"
+"How do I calculate labor costs using estimated hours and hourly rates?"
+"How would I build a bottom-up project budget from estimated labor and other project costs?"
+"How should a project budget be organized into labor, infrastructure, third-party services, hardware, software/tools, and other costs?"
+"How do I make sure each deliverable has an accountable role in a RACI matrix?"
+
+What was kept:
+The general structure of a project resource plan, including roles, skill levels, allocation, estimated hours, hourly rates, and labor costs.
+The relationship between the work breakdown structure and the resources assigned to the work.
+The bottom-up approach for building the project cost plan.
+
+What was changed:
+Labor costs were calculated using the project's specific resource assumptions.
+The monthly cash flow was organized around when project expenses were expected to occur.
+The RACI assignments were tailored to the specific LenuxParks deliverables and team roles.
+
+
+
+
+
+
+
+
+
+
+
+
+
 
